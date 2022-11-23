@@ -2,9 +2,10 @@
 
 Twitter clone built using React, Redux.
 
+![Feed](demo/feed.png)
+
 Demo - [https://twitter-musk.vercel.app/#/](https://twitter-musk.vercel.app/#/)
 
-Backend Repository - [https://github.com/RisingGeek/twitter-clone-backend](https://github.com/RisingGeek/twitter-clone-backend)
 
 ## Features
 
@@ -43,4 +44,4 @@ password: 12345678
 
 ## Demo
 
-![Feed](demo/feed.png)
+
